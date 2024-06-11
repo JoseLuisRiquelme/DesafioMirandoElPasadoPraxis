@@ -1,7 +1,7 @@
 ﻿# DesafioMirandoElPasadoPraxis
 
 
-#Desafío - Mirando el pasado
+Desafío - Mirando el pasado
 En este desafío validaremos nuestros conocimientos vistos en las sesiones anteriores.
 Lee todo el documento antes de comenzar el desarrollo individual o grupal, para asegurarte
 de tener el máximo de puntaje y enfocar bien los esfuerzos.
