@@ -1,7 +1,7 @@
 ﻿# DesafioMirandoElPasadoPraxis
 
 
-Desafío - Mirando el pasado
+##Desafío - Mirando el pasado
 En este desafío validaremos nuestros conocimientos vistos en las sesiones anteriores.
 Lee todo el documento antes de comenzar el desarrollo individual o grupal, para asegurarte
 de tener el máximo de puntaje y enfocar bien los esfuerzos.
@@ -20,7 +20,7 @@ Consideraciones y recomendaciones
 los requerimientos solicitados y sube el .zip en el LMS.
 ● Revisa el detalle de cada requerimiento a continuación:
 _ 2
-www.desafiolatam.com
+
 Ejercicio 1
 (2,5 Puntos)
 Durante una fiesta por videollamada, su amiga comienza a mirar con nostalgia el pasado y le
