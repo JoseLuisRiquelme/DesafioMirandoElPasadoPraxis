@@ -49,7 +49,7 @@ ArrayList<>() llamada “posiblesMarcas” e incorporarlas a la lista de ”marc
 eso que usted utiliza sus conocimientos y cuenta la cantidad de elementos que
 contiene la lista para imprimir en pantalla.
 _ 3
-www.desafiolatam.com
+
 Ejercicio 2
 (2,5 Puntos)
 Dado que la fiesta no terminó ahí, y luego de un montón de risas, se acuerdan de algunos ex
