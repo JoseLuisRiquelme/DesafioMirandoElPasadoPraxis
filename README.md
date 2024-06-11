@@ -1,4 +1,4 @@
-#🔍 Challenge - Looking Back
+# 🔍 Challenge - Looking Back
 In this challenge, we will validate our knowledge from the previous sessions.
 Read the entire document before starting the individual or group development to ensure you get the maximum score and focus your efforts correctly.
 
