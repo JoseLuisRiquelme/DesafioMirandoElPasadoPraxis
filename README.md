@@ -1,103 +1,69 @@
-﻿# DesafioMirandoElPasadoPraxis
+🔍 Challenge - Looking Back
+In this challenge, we will validate our knowledge from the previous sessions.
+Read the entire document before starting the individual or group development to ensure you get the maximum score and focus your efforts correctly.
 
+📋 Requirements
 
-Desafío - Mirando el pasado
-En este desafío validaremos nuestros conocimientos vistos en las sesiones anteriores.
-Lee todo el documento antes de comenzar el desarrollo individual o grupal, para asegurarte
-de tener el máximo de puntaje y enfocar bien los esfuerzos.
-Requerimientos
-1) Ejercicio 1
-(2,5 Puntos)
-2) Ejercicio 2
-(2,5 Puntos)
-3) Ejercicio 3
-(2,5 Puntos)
-4) Ejercicio 4
-(2,5 Puntos)
-¡Mucho éxito!
-Consideraciones y recomendaciones
-● Una vez terminado el desafío, comprime la carpeta que contiene el desarrollo de
-los requerimientos solicitados y sube el .zip en el LMS.
-● Revisa el detalle de cada requerimiento a continuación:
-_ 2
+Exercise 1
+(2.5 Points)
 
-Ejercicio 1
-(2,5 Puntos)
-Durante una fiesta por videollamada, su amiga comienza a mirar con nostalgia el pasado y le
-pregunta si se acuerda de marcas que alguna vez existieron. Usted, en su calidad de amante
-de la programación, decide sacar su flamante notebook y codear una aplicación en Java para
-hacer un listado de marcas que viven en sus memorias. Es por ello que para ayudar a su amiga
-decide hacer lo siguiente:
-1. Instanciar un ArrayList<>() del tipo String llamado “marcas” para generar un listado
-de marcas.
-2. Agregar 10 marcas que usted haya conocido e imprimirlas en consola mediante
-System.out.println.
-3. Su amiga le dice que recordó 3 marcas y le pregunta si puede agregarlas al listado.
-Los elementos a agregar son “Blokbaster”, “Carrefour” y “Jetix”. Imprimir el nuevo
-listado en consola.
-4. Se dan cuenta que “Blokbaster” en realidad se escribe “Blockbuster” y deciden cambiar
-la palabra en el listado.
-5. Lamentablemente, usted se da cuenta que “Carrefour” aún existe y decide borrarlo del
-listado. Para ello, usted debe remover el elemento número 11 e imprimir el nuevo
-listado en pantalla. Puede usar la función .remove("Carrefour") para ver si el
-elemento se borró correctamente, ya que arrojará true si se eliminó de manera
-correcta.
-6. Usted se inspira y decide hacer una colección aparte de marcas que podrían estar
-fuera del mercado. Para ello, usted debe agregar marcas (las que quiera) en una nueva
-ArrayList<>() llamada “posiblesMarcas” e incorporarlas a la lista de ”marcas”.
-7. A eso de las 11 de la noche, deciden ver cuántos elementos tiene este listado. Es por
-eso que usted utiliza sus conocimientos y cuenta la cantidad de elementos que
-contiene la lista para imprimir en pantalla.
-_ 3
+Exercise 2
+(2.5 Points)
 
-Ejercicio 2
-(2,5 Puntos)
-Dado que la fiesta no terminó ahí, y luego de un montón de risas, se acuerdan de algunos ex
-compañeros/as del colegio y deciden anotarlos en un listado con la idea de contactarlos e
-invitarlos a una fiesta post-pandemia. Aburrido de usar ArrayList<>(), decide usar Set<>().
-Para ello, usted hace lo siguiente:
-1. Instanciar un Set<>() del tipo String llamado “invitados” para generar un listado de
-compañeros/as. Usted le comenta a su amiga que pueden usar algo llamado
-TreeSet<>() para listarlos ordenadamente.
-2. Luego de muchos recuerdos, deciden agregar los siguientes nombres: “Daniel”,
-“Paola”, “Facundo”, “Pedro”, ”Jacinta”, “Florencia” y “Juan Pablo”.
-3. Su amiga le dice que se acaba de acordar de 3 ex compañeros adicionales y le
-pregunta si puede agregarlos en un listado aparte de “posibles invitados”, ya que no
-les caía muy bien. Los “posibles invitados” son “Jorge”, “Francisco” y “Marcos”. Genere
-este nuevo listado, únalo con el otro e imprima en pantalla.
-4. Lamentablemente, usted se da cuenta que es mejor no invitar a “Jorge” y decide
-eliminarlo del listado. Imprima el listado final de invitados para que comiencen a
-contactarlos lo antes posible.
-_ 4
+Exercise 3
+(2.5 Points)
 
-Ejercicio 3
-(2,5 Puntos)
-Sin embargo, la fiesta no terminó ahí. Usted encontró en internet un listado con los precios
-antiguos de algunas golosinas de la infancia y decide crear un Map<>() para ir terminando la
-fiesta.
-1. Instanciar un Map<>() del tipo <String, Integer> llamado “golosinas” para generar un
-listado de estas. Usted le comenta a su amiga que le gustaría probar algo llamado
-TreeMap() para listarlos por claves.
-2. Deciden agregar las siguientes golosinas:
-● Chocman a 100 pesos
-● Trululú a 100 pesos
-● Centella a 100 pesos
-● Kilate a 50 pesos
-● Miti-miti a 30 pesos
-● Traga Traga a 150 pesos
-● Tabletón a 5 pesos
-3. Su amiga le dice que si es posible filtrar aquellas golosinas que costaban menos de
-100 pesos para mostrar en sus redes sociales el valor del dinero en el tiempo.
-_ 5
+Exercise 4
+(2.5 Points)
 
-Ejercicio 4
-(2,5 Puntos)
-Por último, y no menos importante, se acordaron de aquellos juegos de infancia junto a su
-amiga. Usted, mientras conversaba, se da cuenta que podría listarlos con un Queue. Es por
-esto que decide hacer lo siguiente:
-1. Instanciar un Queue<>() llamado “juegos” con algo llamado LinkedList() para
-encolar.
-2. Deciden agregar los siguientes juegos: Tombo, Congelado, Quemaditas, Cachipún,
-Pillarse.
-3. Dada la hora y lo tarde de la videollamada, deciden solamente contar la cantidad de
-juegos e imprimirlos en pantalla para algún día volver a jugarlos.
+🌟 Good luck!
+
+📝 Considerations and Recommendations
+
+Once you have completed the challenge, compress the folder containing the development of the required tasks and upload the .zip file to the LMS.
+Review the details of each requirement below:
+💡 Exercise 1
+(2.5 Points)
+
+During a video call party, your friend starts reminiscing nostalgically about the past and asks if you remember brands that once existed. As a programming enthusiast, you decide to pull out your shiny notebook and code a Java application to list brands that live in your memories. To help your friend, you decide to do the following:
+
+Instantiate an ArrayList<String> named “brands” to generate a list of brands.
+Add 10 brands that you have known and print them to the console using System.out.println.
+Your friend remembers 3 more brands and asks if you can add them to the list. The brands to add are “Blokbaster”, “Carrefour”, and “Jetix”. Print the updated list to the console.
+You realize that “Blokbaster” should actually be spelled “Blockbuster” and decide to update the list with the correct spelling.
+Unfortunately, you notice that “Carrefour” still exists and decide to remove it from the list. To do this, you should remove the 11th element and print the updated list to the screen. You can use the .remove("Carrefour") function to see if the element was removed correctly, as it will return true if the removal was successful.
+Inspired, you decide to create a separate collection of brands that might be out of the market. To do this, add some brands (any you like) to a new ArrayList<String> named “potentialBrands” and merge them into the “brands” list.
+Around 11 PM, you decide to count how many elements are in the list. Use your knowledge to count the number of elements in the list and print it to the screen.
+💾 Exercise 2
+(2.5 Points)
+
+Since the party didn’t end there, and after a lot of laughter, you remember some old schoolmates and decide to list them with the idea of contacting them and inviting them to a post-pandemic party. Tired of using ArrayList<>, you decide to use Set<>(). To do this, you:
+
+Instantiate a Set<String> named “guests” to generate a list of schoolmates. You mention to your friend that they can use something called TreeSet<>() to list them in an ordered way.
+After many memories, you decide to add the following names: “Daniel”, “Paola”, “Facundo”, “Pedro”, ”Jacinta”, “Florencia”, and “Juan Pablo”.
+Your friend remembers 3 more old schoolmates but asks if you can add them to a separate list of “potential guests” as they weren’t very well-liked. The “potential guests” are “Jorge”, “Francisco”, and “Marcos”. Create this new list, merge it with the other, and print it to the screen.
+Unfortunately, you realize it’s better not to invite “Jorge” and decide to remove him from the list. Print the final list of guests so you can start contacting them as soon as possible.
+📈 Exercise 3
+(2.5 Points)
+
+However, the party didn't end there. You found a list of the old prices of some childhood candies on the internet and decide to create a Map<>() to wrap up the party.
+
+Instantiate a Map<String, Integer> named “candies” to generate a list of these. You mention to your friend that you would like to try something called TreeMap() to list them by keys.
+You decide to add the following candies:
+Chocman at 100 pesos
+Trululú at 100 pesos
+Centella at 100 pesos
+Kilate at 50 pesos
+Miti-miti at 30 pesos
+Traga Traga at 150 pesos
+Tabletón at 5 pesos
+Your friend asks if it’s possible to filter those candies that cost less than 100 pesos to show on social media the value of money over time.
+🎮 Exercise 4
+(2.5 Points)
+
+Finally, and not least, you remembered those childhood games with your friend. While chatting, you realize that you could list them using a Queue. So you decide to do the following:
+
+Instantiate a Queue<String> named “games” with something called LinkedList() to enqueue them.
+You decide to add the following games: Tombo, Freeze Tag, Dodgeball, Rock-Paper-Scissors, Tag.
+Given the late hour of the video call, you decide to simply count the number of games and print them to the screen for a future occasion when you might play them again.
+This structured approach with sections and clear task breakdown should help you tackle the challenge effectively. Good luck!
